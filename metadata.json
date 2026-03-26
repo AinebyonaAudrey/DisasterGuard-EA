@@ -1,0 +1,5 @@
+{
+  "name": "DisasterGuard EA",
+  "description": "Expert climate disaster AI for East Africa providing real-time risks, safety actions, and preparation tips for Uganda, Kenya, Tanzania, Rwanda, Burundi, South Sudan, and Ethiopia.",
+  "requestFramePermissions": ["geolocation"]
+}
